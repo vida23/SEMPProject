@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "447396156412",
+    "firebase_url": "https://sepm-malort.firebaseio.com",
+    "project_id": "sepm-malort",
+    "storage_bucket": "sepm-malort.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447396156412:android:a2f1cc002bf0ac383d5879",
+        "android_client_info": {
+          "package_name": "com.example.malortmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447396156412-vh0s1aairoi3k0n4jbvv4lrgmnla85mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD92zZB3S84OR3Suh0rqBDn9XapTtCb-nQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447396156412-vh0s1aairoi3k0n4jbvv4lrgmnla85mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
